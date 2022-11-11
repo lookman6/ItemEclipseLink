@@ -1,0 +1,10 @@
+Model\Article.class
+com\mycompany\articleweb\JAXRSConfiguration.class
+Controller\ArticleList.class
+ENTITES\Article.class
+Controller\AddArticle.class
+com\mycompany\articleweb\resources\JavaEE8Resource.class
+Controller\EditArticle.class
+Controller\UpdateArticle.class
+Controller\DeleteArticle.class
+DAO\ArticleDAO.class
